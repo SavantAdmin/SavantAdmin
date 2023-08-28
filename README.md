@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SavantAdmin
 - 👀 I’m interested in automation and AI.
-- 🌱 I’m currently learning Tensor & Keras aslo interested in learing rust sometime soon.
+- 🌱 I’m currently learning Tensor & Keras, also interested in learing rust sometime soon.
 - 💞️ I’m looking to collaborate on JV's.
 - 📫 How to reach me: https://www.linkedin.com/in/juan-baena/
 
